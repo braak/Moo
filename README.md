@@ -3,7 +3,7 @@
 This Repository creates a binary that prints a cow.
 
 ## Why?
-This is mostly a test. It is supposed to be slightly more complex than "Hello, World!". In addition to creating a binary a library is created and linked against. In the future I plan to add more features.  
+This is mostly a test. It is supposed to be slightly more complex than "Hello, World!". In addition to creating a binary a library is created and linked against. In the future I might add more features.  
 
 ## Copyright and license
 Copyright 2016 Jan-Niklas Braak
